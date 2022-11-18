@@ -1,0 +1,3 @@
+git config --global user.name pkalyankumar1010
+git config --global user.email pkalyankumar1010@gmail.com
+git clone https://github.com/pkalyankumar1010/Unix_minds.git
