@@ -1,10 +1,14 @@
 Help()
 {
 	# Display Help
-	echo "Usage of the function"
+	echo "Prints full name by taking arguments"
 	echo 
-	echo "function -f first_name -l last_name -h"
-	echo "-h for help option"
+	echo "Syntax :function [-h|f|l]"
+	echo 
+	echo "options:"
+	echo "h		Prints the help"
+	echo "f		takes first name"
+	echo "l		takes last name"
 }
 
 
