@@ -1,4 +1,5 @@
 # Unix_minds
+https://img.shields.io/github/last-commit/pkalyankumar1010/Unix_minds?style=plastic
 simple comands
 
 
