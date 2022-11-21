@@ -17,3 +17,6 @@ Function
 	echo "h		Prints the help"
 	echo "f		takes first name"
 	echo "l		takes last name"
+	
+## Get path name by part of file name
+- replace regex with file name
